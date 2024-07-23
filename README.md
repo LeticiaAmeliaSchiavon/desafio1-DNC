@@ -1,2 +1,3 @@
-# desafio1-dnc
-Esse é o desafio 1 da DNC do curso de Engenharia de Software. Construir uma landing page aplicando HTML e CSS com base em um layout construido no figma.
+# Desafio 1 Resolução
+Link do site disponibilizado: https://desafio1-dnc-landing-page.netlify.app/
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1msy85ucFHK5r9RgAWZOtYM2DYpOr3R0a7Wq8b6YcJu8/edit?gid=0#gid=0
